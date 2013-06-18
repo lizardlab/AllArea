@@ -1,7 +1,7 @@
 !define PRODUCT_NAME "AllArea"
 !define PRODUCT_VERSION "1.3"
 !define PRODUCT_PUBLISHER "Dynamic Programming"
-!define PRODUCT_WEB_SITE "http://burnedtoast.co.cc"
+!define PRODUCT_WEB_SITE "http://burnedtoast.cu.cc"
 !define PRODUCT_DIR_REGKEY "Software\Microsoft\Windows\CurrentVersion\App Paths\AllArea.exe"
 !define PRODUCT_UNINST_KEY "Software\Microsoft\Windows\CurrentVersion\Uninstall\${PRODUCT_NAME}"
 !define PRODUCT_UNINST_ROOT_KEY "HKLM"
